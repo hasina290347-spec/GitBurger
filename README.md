@@ -12,3 +12,5 @@ Découvrons notre recette de hamburger maison.
 * tomate
 * Fromage
 * Bacon
+* Sauce barbecue
+
